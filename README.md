@@ -1,0 +1,1 @@
+This repository contains the paper titled ``The Medium is the Message: How Secure Messaging Apps Leak Sensitive Data to Push Notification Services'', which has been accepted to the 24th Privacy Enhancing Technologies Symposium (PETS 2024), and its supplemental materials and artifacts.
